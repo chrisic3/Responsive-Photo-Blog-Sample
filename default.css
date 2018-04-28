@@ -4,8 +4,17 @@
   justify-content: center;
 }
 
+h1 {
+  width: 400px;
+  text-align: center;
+  border-right: 1px solid #AAAAAA;
+  border-bottom: 1px solid #AAAAAA;
+  box-shadow: 3px 3px 5px #DDDDDD;
+}
+
 img {
   width: 450px;
   height: 300px;
   margin: 10px;
+  box-shadow: 2px 2px 5px #888888;
 }
